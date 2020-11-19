@@ -1,1 +1,1 @@
-# proj_MHD_gal_sim
+# MHD_gal project
